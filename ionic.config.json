@@ -1,5 +1,7 @@
 {
   "name": "melon",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
